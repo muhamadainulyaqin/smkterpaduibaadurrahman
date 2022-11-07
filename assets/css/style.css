@@ -311,7 +311,7 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #111111;
+  color: #fff;
 }
 
 .navbar-mobile a:hover,
